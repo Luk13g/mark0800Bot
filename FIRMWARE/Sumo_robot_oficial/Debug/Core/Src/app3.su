@@ -1,0 +1,13 @@
+app3.c:47:10:hw_timer_get_tick_ms	8	static
+app3.c:92:6:updateFromSensors	4	static
+app3.c:104:6:maquina_de_estado	8	static
+app3.c:155:6:survive	8	static
+app3.c:195:6:hunt	8	static
+app3.c:213:6:target	8	static
+app3.c:274:6:attack	8	static
+app3.c:289:6:clearCommands	8	static
+app3.c:297:6:startExecutingCommands	8	static
+app3.c:306:6:addCommand	24	static
+app3.c:320:6:executeCommands	8	static
+app3.c:337:6:app3_init	8	static
+app3.c:346:6:app3_loop	8	static

@@ -1,0 +1,6 @@
+motor3.h:24:24:init	8	static
+motor3.c:39:6:motor3_init	8	static
+motor3.c:51:6:motor_parada	8	static
+motor3.c:61:6:setSpeeds	16	static
+motor3.c:67:6:setLeftSpeed	24	static
+motor3.c:102:6:setRightSpeed	24	static
